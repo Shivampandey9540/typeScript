@@ -1,0 +1,18 @@
+types in typescript
+
+Number String Boolean
+null undefined void
+object Array Tuples 
+....
+
+any ->   Never unknown null
+
+default  type for all variables  in typescript is :-
+
+  ----noImplicitany
+
+  functions
+    union
+
+/*
+*/
